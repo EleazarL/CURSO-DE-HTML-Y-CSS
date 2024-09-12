@@ -1,0 +1,20 @@
+p { 
+    color: red;
+    font-family: sans-serif;
+    size: 13px;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+    line-height: 2;
+    letter-spacing: 1px;
+    text-transform: capitalize;
+}
+
+span{
+    text-decoration: blue solid underline;
+
+}
+
+h1{
+    font-family: Roboto;
+}
