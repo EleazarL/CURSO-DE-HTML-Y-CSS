@@ -1,0 +1,21 @@
+div{
+    background: red;
+    width: 50%;
+    height: 100%px;
+}
+input{
+    width: 100%;
+
+}
+form{
+    width: 20%;
+}
+
+.my-button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
