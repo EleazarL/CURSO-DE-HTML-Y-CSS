@@ -1,0 +1,23 @@
+div{
+    background: red;
+    width: 150px;
+    margin: auto;
+    text-align: center;
+
+
+}
+
+div{
+    border: 1px solid black;
+    border-radius: 4px;
+}
+
+input{
+    margin: 2px;
+    padding: 2px;
+    border: none;
+    border: 1px solid black;
+    border-radius: 4px;
+    background-color: whitesmoke;
+    color: brown;
+}
